@@ -1,5 +1,5 @@
 # Starter Web Project
- This is a sample website.
+ This is a sample website. More changes from myfeature branch too.
 
 ## Introduction
  Here goes the introduction
