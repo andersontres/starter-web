@@ -10,6 +10,7 @@
  And here the deployment section
 
 ## How To Contribute
+ Fork this repository and the issue Pull Request for review.
 
 ### Copyright
  Git 2004
