@@ -10,3 +10,6 @@
  And here the deployment section
 
 ## How To Contribute
+
+### Copyright
+ Git 2004
