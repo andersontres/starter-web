@@ -2,8 +2,11 @@
 
 ## Introduction
  Here goes the introduction
+
 ## Purpose
+ Here goes the purpose of the project
 
 ## Deployment
+ And here the deployment section
 
 ## How To Contribute
