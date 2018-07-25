@@ -14,4 +14,4 @@
  Fork this repository and the issue Pull Request for review.
 
 ### Copyright
- Git 2004
+ Git 2004. All rights reserved.
